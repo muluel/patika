@@ -19,4 +19,4 @@ https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-
 - 3'ün sağında 4 bulunur.
 - 3'ün solunda 2 bulunur.
 
-	![Binary Search Tree Schema](/assets/schema.png)
+	![Binary Search Tree Schema](./assets/schema.png)
